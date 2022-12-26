@@ -9,3 +9,8 @@
     }
   }
   
+{
+  "jupyter-config-data": {
+    "collaborative": true
+  }
+}
