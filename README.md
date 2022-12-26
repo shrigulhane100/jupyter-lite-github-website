@@ -4,8 +4,8 @@
 
 Join US for Greater good.
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
-
+[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)   
+https://shrigulhane100.github.io/tackle-AI-with-Shriyash/
 
 ## ✨ Learn by doing it yourself. ✨
 
